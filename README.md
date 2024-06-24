@@ -11,7 +11,7 @@ The objective is to conduct an in-depth analysis of combined supply chain and di
 
 ## Data Sources:
 
-- [Supply Chain Dataset](https://drive.google.com/file/d/1pmaBw_E8r7xdfOqaUSU9TSD2JUW3m3SS/view?usp=sharing): Analyzes shipping efficiency, customer demographics, sales performance, and more.
+- [Supply Chain Dataset](https://drive.google.com/file/d/1UEvWjNmv0AbZUWgmXtbW3kosZp0bSEjl/view?usp=sharing): Analyzes shipping efficiency, customer demographics, sales performance, and more.
 - [Access Logs Dataset](https://drive.google.com/file/d/1pmaBw_E8r7xdfOqaUSU9TSD2JUW3m3SS/view?usp=sharing): Understands user behavior, product popularity, and website performance.
 
 ## Part 1: Excel Data Analysis Highlights:
